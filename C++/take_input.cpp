@@ -2,9 +2,9 @@
 using namespace std;
 int main() {
 
-    int x;
-    cin >> x;
-    cout << "Number = " << x;
+    int x,y;
+    cin >> x >> y;
+    cout << "Number = " << x << " and y: " << y;
 
     return 0;
 }
